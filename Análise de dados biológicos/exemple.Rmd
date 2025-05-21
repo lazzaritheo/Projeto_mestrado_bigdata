@@ -1,0 +1,44 @@
+---
+title: "Investigando Viés Amostral"
+author: "Theo Lazzari"
+date: "2024-10-21"
+output: 
+  ioslides_presentation:
+    incremental: true
+---
+
+## Contextualização
+
+-   Grupo de estudo: **Família Trechaleidae**
+-   Distribuição: Florestas, Áreas Urbanas e Ambientes Aquáticos
+-   **Questão:** Existe viés amostral dentro do grupo?
+
+## Pressuposto
+
+**O que é o viés amostal?**
+
+-   A literatura frequentemente relata vieses na amostragem de dados, como coletas em locais de fácil acesso para o coletor, próximos a estradas ou centros urbanos (Neto; Loyola, 2016)
+
+### Objetivo do trabalho
+
+-   Investigar se existe viés amostral dentro da família Trechaleidae, verificando se as espécies que ocorrem em ambientes antropizados são melhor amostradas que aquelas de ambientes florestas e aquáticos.
+
+## Variáveis de interesse
+
+-   **Espécie** (134 espécies)
+-   **Tipo de Ambiente** (Floresta, Área Urbana e Ambiente Aquático)
+-   **Esforço Amostral** (Número de pontos de ocorrência)
+
+### Perguntas:
+
+-   Existe **viés amostral** em relação ao ambiente? As espécies que ocorrem em ambientes antropizados são mais amostradas do que as de ambientes florestais ou aquáticos?
+
+-   Existe uma **diferença significativa** no número de registros por espécie entre os diferentes tipos de ambiente?
+
+## Hipóteses
+
+-   **H₀**: O número de registros de ocorrências não é afetado pelo ambiente onde as aranhas são encontradas.
+
+-   **H₁**: O número de registros de ocorrência é maior em ambientes antropizados.
+
+# Obrigado!
